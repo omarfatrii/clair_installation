@@ -2,9 +2,7 @@ FROM golang:1.8.1-alpine
 
 LABEL creator="Coreos" \
 
-      maintainer="vincent nadal <vincent.nadal@orange.com>" \
-
-      home="https://www.forge.orange-labs.fr/plugins/git/newsec/Clair.git" \
+      maintainer="Omar Fatri <omar.fatrii@gmail.com>" \
 
       origin="https://github.com/coreos/clair"
 
